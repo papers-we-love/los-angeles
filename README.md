@@ -4,8 +4,15 @@ This is the repository for the Los Angeles chapter of Papers We Love. As a local
 
 ### Information
 
-[Chapter information: who, what, where, when, why]
+This meetup is for the Los Angeles chapter of Papers We Love. We are a community that gets together once a month to read and discuss a computer science paper. You will know about the paper being presented on ahead of time giving you a chance to read it if you choose so.
 
 ### Contact
 
-{Names and contact information (twitter, email, etc) of Chapter organizers}
+Twitter: [@paperswelove_la](https://twitter.com/paperswelove_la)
+
+### Organizers
+
+* Michael Matuzak
+  * Email: [mmatuzak@gmail.com](mailto:mmatuzak@gmail.com)
+  * Twitter: [@mmatuzak](https://twitter.com/mmatuzak)
+* Rany Tith
